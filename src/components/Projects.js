@@ -74,6 +74,44 @@ const Projects = () => {
                     <br />
                 </div>
 
+                
+
+                <div className="col-md-6">
+                    <a href="https://madeleinesc.github.io/weather-dashboard/"><img src="./assets/weatherdashboard.png" className="project-img img-fluid" data-aos="fade-up" /></a>
+                    <br />
+                    <br />
+                    <p className="lead" data-aos="fade-up">
+                        Weather Dashboard - 2021
+                    </p>
+                    <a href="https://github.com/madeleinesc/weather-dashboard" className="project-links" data-aos="fade-up"><p>
+                        A 5 day weather dashboard wherein you can search for any city in the world and get not just the daily weather but also the next 5 days of forcast too.
+                    </p></a>
+                    <br />
+                    <br />
+                </div>
+
+                <div className="col-md-6"></div>
+
+                <div className="col-md-6"></div>
+
+
+                <div className="col-md-6">
+                    <a href="https://tranquil-waters-73039.herokuapp.com/"><img src="./assets/JATE.png" className="project-img img-fluid" data-aos="fade-up" /></a>
+                    <br />
+                    <br />
+                    <p className="lead" data-aos="fade-up">
+                        PWA Text Editor - 2022
+                    </p>
+                    <a href="https://github.com/madeleinesc/PWA-Text-Editor" className="project-links" data-aos="fade-up"><p>
+                        A simple, downloadable text editor wherein you can write in notes and use offline.
+                    </p></a>
+                    <br />
+                    <br />
+                </div>
+
+
+
+
             </div>
         </div>
     )
