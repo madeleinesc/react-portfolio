@@ -1,6 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+//font awesome
+import 'font-awesome/css/font-awesome.min.css';
 //my own css 
 import './styles.css';
+
 
 import Navbar from './components/Navbar'; 
 import Intro from './components/Intro'; 
