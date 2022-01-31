@@ -5,7 +5,7 @@ const Intro = () => {
     <div className="container p-3" id="intro">
       <div className="row">
         <div className="col-md-7" data-aos="fade-up">
-          <h1 className="display-4">Hi, I'm <span className="bold">Madeleine 👋</span>. A junior <span className="italic">web
+          <h1 className="display-4 text-start">Hi, I'm <span className="bold">Madeleine 👋</span>. A junior <span className="italic">web
             developer</span> and <span class="italic">film enthusiast</span>, currently located in
             <span className="bold">Adelaide, Australia</span>.
           </h1>

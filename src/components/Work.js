@@ -3,10 +3,10 @@ import React from 'react';
 const Work = () => {
     return (
         <div className="container p-3" id="work">
-        <h1 className="display-6 sub-title" data-aos="fade-up">I started my <span className="bold">coding career</span> with <span className="italic">Python</span>
+        <h1 className="display-6 sub-title text-start" data-aos="fade-up">I started my <span className="bold">coding career</span> with <span className="italic">Python</span>
           using Pycharm, then briefly worked with <span className="italic">C++</span> in RStudio before enrolling in the
           bootcamp to continue my studies.</h1>
-        <p className="lead" data-aos="fade-up">
+        <p className="lead text-start" data-aos="fade-up">
           So far, I have worked on projects for front-end as well as back-end and full stack development. While I am still
           relatively new to coding, I have picked up many skills along the way and now have experience in the following:
         </p>
