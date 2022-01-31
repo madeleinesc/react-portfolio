@@ -53,3 +53,20 @@ body {
 .btn {
     border-radius: 50%;
 }
+
+
+
+/* PROJECTS */
+.project-img {
+    object-fit: contain;
+}
+
+.project-links {
+    color:#2d2d2b;
+    text-decoration: none;
+}
+
+.project-links:hover {
+    color: #6f7f88;
+
+}
