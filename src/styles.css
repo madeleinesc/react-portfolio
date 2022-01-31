@@ -18,3 +18,25 @@ body {
 .nav-link:hover {
     color:#6f7f88 !important;
 }
+
+
+
+/* INTRO */
+.display-4 {
+    padding-top: 200px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-family: 'Libre Baskerville', serif !important;
+}
+
+.main-img {
+    padding-top: 170px;
+    -ms-transform: rotate(3deg); /* IE 9 */
+  transform: rotate(3deg);
+  object-fit: contain;
+}
