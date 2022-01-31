@@ -5,3 +5,16 @@ body {
     background-color: #e2e2e2;
     color: #2d2d2b;
 }
+
+/* NAVBAR */
+.navbar {
+    background-color: #e2e2e2;
+}
+
+.nav-link {
+    color: #2d2d2b !important;
+}
+
+.nav-link:hover {
+    color:#6f7f88 !important;
+}
