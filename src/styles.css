@@ -40,3 +40,10 @@ body {
   transform: rotate(3deg);
   object-fit: contain;
 }
+
+
+
+/* ABOUT */
+.sub-title {
+    padding-top: 100px;
+}

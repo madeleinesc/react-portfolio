@@ -4,6 +4,7 @@ import './styles.css';
 
 import Navbar from './components/Navbar'; //import from Navbar
 import Intro from './components/Intro'; // import from Intro
+import About from './components/About'; // import from About
 
 //import logo from './logo.svg';
 import './App.css';
@@ -14,6 +15,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Intro/>
+      <About/>
     </div>
   );
 }
