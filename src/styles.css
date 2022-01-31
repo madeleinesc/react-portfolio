@@ -1,6 +1,7 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
 
+
 body {
     background-color: #e2e2e2;
     color: #2d2d2b;
@@ -59,6 +60,26 @@ body {
 /* PROJECTS */
 .project-img {
     object-fit: contain;
+}
+
+.project-links {
+    color:#2d2d2b;
+    text-decoration: none;
+}
+
+.project-links:hover {
+    color: #6f7f88;
+}
+
+
+/* CONTACT */
+.contact-link {
+    color:#2d2d2b;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    color: #6f7f88;
 }
 
 .project-links {
