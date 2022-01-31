@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 //font awesome
-import 'font-awesome/css/font-awesome.min.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 //my own css 
 import './styles.css';
 
