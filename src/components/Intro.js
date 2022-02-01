@@ -1,4 +1,6 @@
 import React from 'react';
+// profile image 
+import profileImage from '../assets/IMG_3651.jpg';
 
 const Intro = () => {
   return (
@@ -11,7 +13,7 @@ const Intro = () => {
           </h1>
         </div>
         <div className="col-md-4">
-          <img src="./assets/IMG_3651.jpg" className="rounded mx-auto d-block img-fluid main-img" />
+          <img src={profileImage} alt="profile image" className="rounded mx-auto d-block img-fluid main-img" />
         </div>
       </div>
     </div>

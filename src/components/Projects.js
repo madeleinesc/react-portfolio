@@ -1,11 +1,18 @@
 import React from 'react';
+// project images
+import moodvies from '../assets/moodvies.png';
+import bookClub from '../assets/bookwasbetter.png';
+import noteTaker from '../assets/notetaker.png';
+import workScheduler from '../assets/workday.png';
+import weather from '../assets/weatherdashboard.png';
+import textEditor from '../assets/JATE.png';
 
 const Projects = () => {
     return (
         <div className="container p-3">
             <div className="row">
                 <div className="col-md-6">
-                    <a target="_blank" href="https://rhjeffries.github.io/ideal-telegram/" ><img src="./assets/moodvies.png" className="project-img img-fluid"  /></a>
+                    <a target="_blank" href="https://rhjeffries.github.io/ideal-telegram/" ><img src={moodvies} alt="moodvies app" className="project-img img-fluid"  /></a>
                     <br />
                     <br />
                     <p className="lead text-start">
@@ -24,7 +31,7 @@ const Projects = () => {
                 <div className="col-md-6"></div>
 
                 <div className="col-md-6">
-                    <a target="_blank" href="https://the-book-was-better-book-club.herokuapp.com/"><img src="./assets/bookwasbetter.png" className="project-img img-fluid" /></a>
+                    <a target="_blank" href="https://the-book-was-better-book-club.herokuapp.com/"><img src={bookClub} className="project-img img-fluid" /></a>
                     <br />
                     <br />
                     <p className="lead text-start" >
@@ -39,7 +46,7 @@ const Projects = () => {
                 </div>
 
                 <div className="col-md-6">
-                    <a target="_blank" href="https://immense-bastion-97694.herokuapp.com/"><img src="./assets/notetaker.png" className="project-img img-fluid" /></a>
+                    <a target="_blank" href="https://immense-bastion-97694.herokuapp.com/"><img src={noteTaker} alt="note taker app" className="project-img img-fluid" /></a>
                     <br />
                     <br />
                     <p className="lead text-start" >
@@ -58,7 +65,7 @@ const Projects = () => {
                 <div className="col-md-6"></div>
 
                 <div className="col-md-6">
-                    <a target="_blank" href="https://madeleinesc.github.io/work-day-scheduler/"><img src="./assets/workday.png" className="project-img img-fluid"  /></a>
+                    <a target="_blank" href="https://madeleinesc.github.io/work-day-scheduler/"><img src={workScheduler} className="project-img img-fluid"  /></a>
                     <br />
                     <br />
                     <p className="lead text-start" >
@@ -73,7 +80,7 @@ const Projects = () => {
                 </div>
 
                 <div className="col-md-6">
-                    <a target="_blank" href="https://madeleinesc.github.io/weather-dashboard/"><img src="./assets/weatherdashboard.png" className="project-img img-fluid"  /></a>
+                    <a target="_blank" href="https://madeleinesc.github.io/weather-dashboard/"><img src={weather} alt="weather app" className="project-img img-fluid"  /></a>
                     <br />
                     <br />
                     <p className="lead text-start" >
@@ -92,7 +99,7 @@ const Projects = () => {
 
 
                 <div className="col-md-6">
-                    <a target="_blank" href="https://tranquil-waters-73039.herokuapp.com/"><img src="./assets/JATE.png" className="project-img img-fluid"  /></a>
+                    <a target="_blank" href="https://tranquil-waters-73039.herokuapp.com/"><img src={textEditor} className="project-img img-fluid"  /></a>
                     <br />
                     <br />
                     <p className="lead text-start" >
