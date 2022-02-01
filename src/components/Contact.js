@@ -7,12 +7,7 @@ const Contact = () => {
                 Lets work together 📧.
             </h1>
             <a target="_blank" href="mailto: madeleine.codes@gmail.com" className="contact-link"><p className="lead italic text-center">madeleine.codes@gmail.com</p></a>
-            <section className="mb-4 text-center">
-            
-                <a className="btn btn-outline-dark btn-floating m-1" target="_blank" href="https://www.linkedin.com/in/madeleine-cosway" role="button"><i className="fab fa-linkedin-in"></i></a>
 
-                <a className="btn btn-outline-dark btn-floating m-1" target="_blank" href="https://github.com/madeleinesc" role="button"><i className="fab fa-github"></i></a>
-            </section>
         </div>
     )
 }
