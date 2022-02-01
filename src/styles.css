@@ -50,7 +50,7 @@ body {
 
 
 /* WORK */
-.btn {
+.work-btn {
     border-radius: 50%;
 }
 
@@ -71,6 +71,16 @@ body {
 
 
 /* CONTACT */
+.contact-btn {
+    background-color: #2d2d2b;
+    color: #e2e2e2;
+    border-color: #2d2d2b;
+}
+
+.contact-link:hover{
+    background-color: blue;
+}
+
 .contact-link {
     color:#2d2d2b;
     text-decoration: none;
@@ -80,15 +90,9 @@ body {
     color: blue;
 }
 
-.project-links {
-    color:#2d2d2b;
-    text-decoration: none;
-}
 
-.project-links:hover {
-    color: blue;
 
-}
+
 
 
 /* FOOTER */

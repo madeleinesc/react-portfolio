@@ -10,15 +10,15 @@ const Work = () => {
           So far, I have worked on projects for front-end as well as back-end and full stack development. While I am still
           relatively new to coding, I have picked up many skills along the way and now have experience in the following:
         </p>
-        <button type="button" className="btn btn-outline-dark" >HTML</button>
-        <button type="button" className="btn btn-outline-dark" >CSS</button>
-        <button type="button" className="btn btn-outline-dark" >Javascript</button>
-        <button type="button" className="btn btn-outline-dark" >Node.js</button>
-        <button type="button" className="btn btn-outline-dark" >Express.js</button>
-        <button type="button" className="btn btn-outline-dark" >NoSQL</button>
-        <button type="button" className="btn btn-outline-dark" >MySQL</button>
-        <button type="button" className="btn btn-outline-dark" >React</button>
-        <button type="button" className="btn btn-outline-dark" >Python</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >HTML</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >CSS</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >Javascript</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >Node.js</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >Express.js</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >NoSQL</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >MySQL</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >React</button>
+        <button type="button" className="btn btn-outline-dark work-btn" >Python</button>
         <br/>
         <br/>
         <br/>
