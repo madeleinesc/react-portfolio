@@ -87,7 +87,7 @@ const Projects = () => {
                         Weather Dashboard - 2021
                     </p>
                     <a target="_blank" href="https://github.com/madeleinesc/weather-dashboard" className="project-links text-start" data-aos="fade-up"><p>
-                        A 5 day weather dashboard wherein you can search for any city in the world and get not just the daily weather but also the next 5 days of forcast too. Click on the image to
+                        A 5 day weather dashboard wherein you can search for any city in the world and get not just the daily weather but also the next 5 days of forecast too. Click on the image to
                         view the live project or click here for the project repo.
                     </p></a>
                     <br />
