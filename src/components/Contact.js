@@ -16,7 +16,7 @@ const Contact = () => {
 
                 <div class="mb-3">
                     <label class="form-label" for="name">Name:</label>
-                    <input class="form-control" id="name" type="text" placeholder="Please enter name here..." pattern="/^[a-zA-Z]+$" required/>
+                    <input class="form-control" id="name" type="text" placeholder="Please enter name here..." pattern="^[a-zA-Z]+$" required/>
                 </div>
 
                 <div class="mb-3">

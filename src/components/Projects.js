@@ -87,7 +87,8 @@ const Projects = () => {
                         Weather Dashboard - 2021
                     </p>
                     <a target="_blank" href="https://github.com/madeleinesc/weather-dashboard" className="project-links text-start" data-aos="fade-up"><p>
-                        A 5 day weather dashboard wherein you can search for any city in the world and get not just the daily weather but also the next 5 days of forcast too.
+                        A 5 day weather dashboard wherein you can search for any city in the world and get not just the daily weather but also the next 5 days of forcast too. Click on the image to
+                        view the live project or click here for the project repo.
                     </p></a>
                     <br />
                     <br />
@@ -106,7 +107,8 @@ const Projects = () => {
                         PWA Text Editor - 2022
                     </p>
                     <a target="_blank" href="https://github.com/madeleinesc/PWA-Text-Editor" className="project-links text-start" ><p>
-                        A simple, downloadable text editor wherein you can write in notes and use offline.
+                        A simple, downloadable text editor wherein you can write in notes and use offline. Click on the image to
+                        view the live project or click here for the project repo.
                     </p></a>
                     <br />
                     <br />
