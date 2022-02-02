@@ -8,8 +8,8 @@ const Intro = () => {
       <div className="row">
         <div className="col-md-7">
           <h1 className="display-4 text-start">Hi, I'm <span className="bold">Madeleine 👋</span>. A junior <span className="italic">web
-            developer</span> and <span class="italic">film enthusiast</span>, currently located in
-            <span className="bold">Adelaide, Australia</span>.
+            developer</span> and <span class="italic">film enthusiast</span>, currently located in 
+            <span className="bold"> Adelaide, Australia</span>.
           </h1>
         </div>
         <div className="col-md-4">

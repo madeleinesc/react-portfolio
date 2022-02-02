@@ -33,6 +33,7 @@ body {
 
 .italic {
     font-family: 'Libre Baskerville', serif !important;
+    font-style: italic;
 }
 
 .main-img {
