@@ -17,8 +17,6 @@ My new portfolio was created with:
 * github pages - for deployment
 
 
-I first created a simple HTML/Bootstrap/CSS template before creating a React app, then I seperated my template into smaller components to place into their own js component files. 
-
 
 ## User Story
 
@@ -29,15 +27,15 @@ SO THAT I can assess whether they're a good candidate for an open position
 ```
 
 ## Mock Up
-Please []() to view my live webpage.
+Please [click here](https://madeleinesc.github.io/react-portfolio/) to view my live webpage.
 
 
 Below is a screen capture of my full webpage!
-![()
+![portfolio screen shot](./src/assets/reactportfolio.png)
 
 
 And here is my portfolio in action!
-![]()
+![portfolio gif](./src/assets/portfolio.gif)
 
 
 ## Future Development & Missing Pieces
