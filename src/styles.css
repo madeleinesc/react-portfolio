@@ -24,7 +24,7 @@ body {
 
 /* INTRO */
 .display-4 {
-    padding-top: 125px;
+    padding-top: 170px;
 }
 
 .bold {
@@ -36,7 +36,7 @@ body {
 }
 
 .main-img {
-    padding-top: 100px;
+    padding-top: 150px;
     -ms-transform: rotate(3deg); /* IE 9 */
   transform: rotate(3deg);
   object-fit: contain;
