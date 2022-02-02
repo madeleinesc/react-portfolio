@@ -1,4 +1,7 @@
-import React from 'react';
+import React, {useRef} from 'react';
+
+
+
 
 const Contact = () => {
     return (
@@ -9,21 +12,22 @@ const Contact = () => {
             <p className="lead">Shoot me a message if you have any enquiries!</p>
 
 
-            <form>
+            <form >
 
                 <div class="mb-3">
                     <label class="form-label" for="name">Name:</label>
                     <input class="form-control" id="name" type="text" placeholder="Name..." data-sb-validations="required" />
+                    <div class="invalid-feedback" data-sb-feedback="name:required">Name is required!</div>
                 </div>
 
                 <div class="mb-3">
                     <label class="form-label" for="emailAddress">Email Address:</label>
-                    <input class="form-control" id="emailAddress" type="email" placeholder="Enter email here..." data-sb-validations="required, email" />
+                    <input class="form-control" id="emailAddress" type="email" placeholder="Enter email here..." data-sb-validations="email required" />
                 </div>
 
                 <div class="mb-3">
                     <label for="exampleFormControlTextarea1" class="form-label">Message:</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2" placeholder="Enter your message here..."></textarea>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="2" placeholder="Enter your message here..."data-sb-validations="message required"></textarea>
                 </div>
                 <button type="submit" class="btn btn-primary contact-btn">Send</button>
                 <br />
@@ -39,6 +43,8 @@ const Contact = () => {
 
         </div>
     )
-}
+ }
+
+    
 
 export default Contact

@@ -40,9 +40,13 @@ And here is my portfolio in action!
 ![]()
 
 
-## Future Development
+## Future Development & Missing Pieces
 
-I still need to add a highlight to the active navbar link and would like to add fade in on scroll.
+In future, I would like to make my navbar links stay highlighted when on their specific section.
+
+I decided to not share my personal details/resume on this.
+
+I still need to make the contact form send messages to me, but the validation is working.
 
 ## Credits
 [Madeleine Cosway](https://github.com/madeleinesc) 🤠
